@@ -1,6 +1,3 @@
-# Discord-MusicBot
-An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!
-
 <h1 align="center"><img src="./assets/logo.gif" width="30px"> Discord Music Bot <img src="./assets/logo.gif" width="30px"></h1>
 <p align="center">Thanks for 25k Views with 500 subs!</p>
 
